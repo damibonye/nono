@@ -1,0 +1,5 @@
+[
+  { "id": 1, "numero": 101, "tipo": "Doble", "precioNoche": 80, "libre": true },
+  { "id": 2, "numero": 102, "tipo": "Suite", "precioNoche": 150, "libre": false },
+  { "id": 5, "numero": 201, "tipo": "Individual", "precioNoche": 50, "libre": true }
+]
